@@ -1,0 +1,14 @@
+Objective:
+To demonstrate understanding of Git operations by creating a repository, branches, committing changes, and merging branches.
+
+Task Completed:
+1.Created a Git repository.
+2.Created a new branch (branch1) from the main branch.
+3.Added a text file to branch1.
+4.Committed the changes with a proper commit message.
+5.Switched to main and merged branch1 into it.
+6.Resolved merge conflicts (if any).
+7.Pushed the final changes to GitHub.
+
+Learning Outcome:
+I understood the basic Git workflow, staging, local repository, remote repository including  add, cloning, branch creation, commits, merging, resolving conflicts, and pushing to a remote repository
