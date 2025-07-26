@@ -1,0 +1,4 @@
+Unit Testing        : Tests individual components
+Integration Testing : Tests the whole module
+System Testing      : Tests the entire system as a whole
+Acceptance Testing  : Verifies if the system meets business requirements
