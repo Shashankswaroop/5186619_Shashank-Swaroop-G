@@ -1,0 +1,236 @@
+   10  git clone [200~https://github.com/Shashankswaroop/5186619_Shashank-swaroop-G.git~
+   11  git clone [200~
+   12  git config list
+   13  cd git clone 
+   14  ls git clone
+   15  git clone https://github.com/Shashankswaroop/5186619_Shashank-swaroop-G.git
+   17  cd "C:\git hub"
+   18  git clone https://github.com/Shashankswaroop/5186619_Shashank-swaroop-G.git
+   19  git add.
+   20  git add .
+   21  git commit -m "First commit"
+   22  git add .
+   23  cd "C:\git hub\5186619_Shashank-swaroop-G"
+   24  git add .
+   25  git commit -m "First commit"
+   26  git push
+   27  git push
+   28  git push
+   29  git push
+   30  git push
+   31  cd "C:\git hub\5186619_Shashank-swaroop-G"
+   32  git add .
+   33  git commit -m "First commit"
+   34  git push
+   35  git pull --rebase
+   36  git push
+   37  git init
+   38  git add .
+   39  git init
+   40  git add .
+   41  git commit -m "Task1 completed"
+   42  git push
+   43  git pull --rebase
+   44  git push
+   45  git init
+   46  git add .
+   47  git commit -m "Task1 completed"
+   48  git pull --rebase
+   49  git push
+   51  git status
+   52  git log
+   54  git clone "https://github.com/Shashankswaroop/5186619_Shashank-_Swaroop-_G.git"
+   55  git add .
+   56  git pull --rebase
+   57  git commit -m "First commit"
+   58  git rm Agile
+   60  git clone "https://github.com/Shashankswaroop/5186619_Shashank-Swaroop-G.git"
+   61  git add .
+   63  git add .
+   64  git commit -m "First commit"
+   65  git push
+   66  git pull --rebase
+   67  git push
+   68  git init
+   69  git add .
+   70  git init
+   71  git add .
+   72  git commit -m "Assessment2 completed"
+   73  git pull --rebase
+   74  git push
+   75  git config --list
+   76  git init
+   77  git add .
+   78  git commit -m "Assessment1 completed"
+   79  git push
+   80  git config --global user.email "Shashank.shashankswaroop@gmail.com"
+   81  git config --list
+   82  git init
+   83  git add .
+   84  git comit -m "task1 completed"
+   85  git push
+   86  git pull --rebase
+   87  git pull --rebase
+   88  git commit -m "task1 completed"
+   89  git push
+   90  git pull --rebase
+   91  git push
+   93  git cat Test.txt
+   95  git init
+   96  git add .
+   97  git init
+   98  git add .
+   99  git commit -m "code 1"
+  100  git init
+  101  git add .
+  102  git commit -m "code 1"
+  103  git log --all --graph
+  104  git branch branch1
+  105  git checkout branch1
+  106  git add .
+  107  git commit -m "code 2"
+  108  git add .
+  109  git commit -m "code 2"
+  110  git status
+  111  git log --all --graph
+  112  git checkout main
+  113  git add .
+  114  git commit -m "main branch name changed"
+  115  git chechout branch1
+  116  git checkout branch1
+  117  git checkout main
+  118  git checkout branch1
+  119  git add .
+  120  git commit -m "branch 1 completed "
+  121  git checkout main
+  122  git add .
+  123  git commit -m "main branch completed"
+  124  git branch
+  125  git merge branch1
+  126  git status
+  127  git add code2.txt
+  128  git init
+  129  git add .
+  130  git commit -m "Merge branch 'branch1' into main with conflict resolved"
+  131  git push
+  132  git init 
+  133  git add 
+  134  git add .
+  135  git commit -m "main branch completed"
+  136  git push
+  137  git add .
+  138  git commit -m "Few files deleted"
+  139  git branch branch1
+  140  git checkout branch1
+  141  git add .
+  142  git commit -m "Code 2 added in branch1"
+  143  git checkout main
+  144  git add .
+  145  git commit -m "code1 is added to main branch"
+  146  git log --all --graph
+  147  git checkout branch1
+  148  git log
+  149  git log --all --graph
+  150  git checkout main
+  151  git merge branch1 -m "both the branch code is merged"
+  153  git add .
+  154  git commit -m "Resolved merge conflict by keeping renamed file Branch1/Code2.txt"
+  155  git status
+  156  git push
+  157  git add .
+  158  git commit -m "Assessment2 completed"
+  159  git push
+  160  git init 
+  161  git add .
+  162  git commit -m "code2 is added to branch1"
+  163  git push
+  164  git push
+  165  git diff branch1
+  166  git checkout branch1
+  167  git checkout main
+  168  git checjout branch1
+  169  git checkout branch1
+  170  git checkout main
+  171  git branch -d branch1
+  172  git branch sub_branch
+  173  git branch -d sub_branch
+  174  git init
+  175  git add .
+  176  git commit -m "New Branch"
+  177  git branch Sub_branch
+  178  git checkout Sub_branch
+  179  git add .
+  180  git commit -m "This folder is inside the sub branch"
+  181  git add .
+  182  git commit -m "Fix the bug"
+  183  git checkout main
+  184  git merge Sub_branch
+  185  git push
+  186  git add .
+  187  git commit -m "mearged branch"
+  188  git push
+  189  git branch -d Sub_branch
+  190  git init
+  191  git add .
+  192  git commit -m "Main branch"
+  193  git branch sub_branch
+  194  git checkout sub_branch
+  195  git add .
+  196  git commit -m "Types of Testings "
+  197  git checkout main
+  198  git status
+  199  git merge sub_branch -m "Merged branch"
+  200  git push
+  201  git commit --amend -m "Merged Branch"
+  202  git push
+  203  git pull --rebase 
+  204  git push
+  205  git commit --amend -m "Merged Branch"
+  206  git push
+  207  git pull --rebase
+  208  git push
+  209  git chechouut sun_branch
+  210  git checkout sub_branch
+  211  git add .
+  212  git commit -m "Added Types of Testing to SDLC Testings.txt"
+  213  git push
+  214  git push --set-upstream origin sub_branch
+  215  git checkout main
+  216  git merge sub_branch
+  217  git push
+  218  git branch
+  219  git remote show origin
+  220  git checkout sub_branch
+  221  git add .
+  222  git commit -m "Add the End_Branch.txt to the sub_branch"
+  223  git push -u origin sub_branch
+  224  git checkout main
+  225  git merge sub_branch -m "merged sub_branch to main with some changes"
+  226  git push
+  227  git push origin
+  228  git checkout sub_branch
+  229  git init 
+  230  git add .
+  231  git commit -m "simplilearn certificate added to the sub_branch"
+  232  git push
+  233  git checkout main
+  234  git merge sub_branch
+  235  git cat Git_Learnings
+  237  git cat "'/c/Git Training/5186619_Shashank-Swaroop-G/Git Learnings.txt'"
+  238  git CAT "Git Learnings.txt"
+  244  git init
+  245  git add .
+  246  git commit -m "C certificate added to C programming file"
+  247  git push
+  248  git clone "https://github.com/Sumanml03/5186470_Suman-M-L.git"
+  249  git init
+  250  git checkout sub_branch
+  251  git checkout main
+  252  git checkout sub_branch
+  253  git init
+  254  git add .
+  255  git commit -m "unit testing folder is added"
+  256  git push
+  257  git checkout main
+  258  git merge sub_branch
+  259  history | grep git | sed 's/^[ ][0-9]\+[ ]//' | sort -u > git_commands.txt
